@@ -1,0 +1,3 @@
+whisper-quran-base-v1 is a Core ML conversion of tarteel-ai/whisper-base-ar-quran
+(Apache License 2.0, Tarteel AI), itself a fine-tune of openai/whisper-base (MIT, OpenAI).
+Converted with argmaxinc/whisperkittools. No weights were modified.
